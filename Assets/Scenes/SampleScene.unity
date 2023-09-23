@@ -2418,31 +2418,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ea62d0f3226f8b49845aafc3f5b04bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _soalSoal:
-  - pertanyaan: Apa Warna Mawar?
-    petunjukJawaban: {fileID: 21300000, guid: fec79905c6e45fe439055ecac91dedd3, type: 3}
-    pilihanJawaban:
-    - Merah
-    - Kuning
-    - Violet
-    - Hitam
-    adalahBenar: 01000000
-  - pertanyaan: Apa Warna Daun
-    petunjukJawaban: {fileID: 21300000, guid: e798cf0c7e09e144f84eb27b7e34db39, type: 3}
-    pilihanJawaban:
-    - Putih
-    - Ungu
-    - Hijau
-    - Biru
-    adalahBenar: 00000100
-  - pertanyaan: Apa warna Laut
-    petunjukJawaban: {fileID: 21300000, guid: ffe4ae10df3fb1b4da18ceed743347f8, type: 3}
-    pilihanJawaban:
-    - Hitam
-    - Biru
-    - Putih
-    - Kuning
-    adalahBenar: 00010000
+  _playerProgress: {fileID: 11400000, guid: c8794597e6ca76d4e9b1f87152e80776, type: 2}
+  _soalSoal: {fileID: 11400000, guid: 3c452f64a7385c64bbacccb85f0862d3, type: 2}
   _tempatTextLevel: {fileID: 281294530}
   _pertanyaan: {fileID: 419850943}
   _pilihanJawaban:
